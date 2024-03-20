@@ -55,7 +55,7 @@ class MyApp extends StatelessWidget {
                     ),
                   ],
                 ),
-                SizedBox(height: 20),
+                SizedBox(height: 90),
                 Column(
                   children: <Widget>[
                     TextField(
@@ -79,7 +79,7 @@ class MyApp extends StatelessWidget {
                     ),
                   ],
                 ),
-                SizedBox(height: 20),
+                SizedBox(height: 30),
                 HospitalInfoCard(
                   hospitalName: ' Rumah Sakit Doa Ibu C',
                   address: 'Jl. AH Nasution no.15',
